@@ -1,0 +1,3 @@
+ifx := 5;
+thenValue := 10;
+endResult := ifx + thenValue

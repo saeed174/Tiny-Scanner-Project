@@ -1,0 +1,7 @@
+if x < 10 then
+    repeat
+        x := x + 1
+    until x = 10
+    read y;
+    write y
+end
